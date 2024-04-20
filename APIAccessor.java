@@ -23,7 +23,7 @@ public class APIAccessor {
     public void infoLoader(String[] ticker, String startDate, String endDate, HashTable centralTable) {
         for (String c : ticker){
 
-            String APIKey = "ad6c4b6204264b9ca718dacdaf1a47f4";
+            String APIKey = "";
             String URL = "https://api.twelvedata.com/time_series?&start_date=" + startDate + "&end_date=" + endDate + "&symbol=" + c + "&interval=1day&apikey=" + APIKey;
 
             HttpClient client = HttpClient.newHttpClient();
