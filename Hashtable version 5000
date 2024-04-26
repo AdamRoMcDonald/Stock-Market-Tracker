@@ -1,0 +1,263 @@
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.Scanner;
+ 
+/**
+ * Generic Hashtable class
+ *
+ *
+ * @author Rowan McDonald
+ * @version 2.0 04/25/2024
+ * @param <K> Key value in hashtable, it is ticker in this case
+ * @param <V> value in hashtable, in this case it is price
+ */
+ 
+ 
+ 
+class HashTable<K, V> {
+ 
+    /**
+     * curPos is used throughout as a variable to keep track of what index a key hashes to.
+     */
+    int curPos;
+ 
+    /**
+     * the hashTable in the project is a LinkedList of type Entry, Entry is a subclass Object with stores a key and value
+     */
+    public LinkedList<Entry<K, V>>[] hashTable;
+ 
+    public int hashSize = 3; //starting table size is 3
+    public int numElements; //numElements represents number of values stored in a hashTable. Note that it does not store number of Entry objects, just values.
+ 
+    public HashTable() { //constructor to initialize hashTable and numElements
+        hashTable = new LinkedList[hashSize];
+        numElements = 0;
+    }
+ 
+    public void put(K key, V val) {
+        curPos = getIndex(key);
+        if (hashTable[curPos] == null) { //If a current position in the table is unoccupied we create a new LinkedList there
+            hashTable[curPos] = new LinkedList<>();
+        }
+        for (Entry<K, V> entry : hashTable[curPos]) {
+            if (entry.key.equals(key)) { //Finds the appropriate slot for each value by iterating through Entry objects
+                entry.val = val;
+                return;
+            }
+        }
+        hashTable[curPos].add(new Entry<K, V>(key, val)); //When appropriate position is found, adds new Entry there
+        numElements++;
+        if (getAlpha() >= 0.75) { //If alpha load factor (a) is greater than or = 0.75, rehash
+            rehash();
+        }
+    }
+ 
+    /**
+     * @return returns the number of elements in hashtable divided by the capacity, or number of slots, of hashtable
+     */
+    public double getAlpha(){
+        return (double) numElements / hashTable.length;
+ 
+    }
+ 
+    /**
+     * @param key key is key
+     * @return Returns the value held at a certain key (if there is such a value
+     */
+    public V get(K key) {
+        curPos = getIndex(key);
+        if (hashTable[curPos] != null) {
+            for (Entry<K, V> entry : hashTable[curPos]) { //Iterates through each entry in hashTable until it finds requested key/value pair or has gone thru all
+                if (entry.key.equals(key)) {
+                    return entry.val;
+                }
+            }
+        }
+        return null;
+    }
+ 
+    /**
+     * @param key
+     * @return Returns true if key-value pair has been found and removed. False if otherwise.
+     */
+ 
+    public boolean remove(K key) {
+        curPos = getIndex(key);
+        if (hashTable[curPos] != null) {
+            hashTable[curPos].removeIf(entry -> entry.key.equals(key));
+            numElements--;
+            return true;
+        }
+        return false;
+    }
+ 
+    /**
+     * @param key key is key
+     * @return returns the slot number that a key hashes to
+     */
+    public int getIndex(K key) {
+        return Math.abs(key.hashCode()) % hashTable.length;
+    }
+ 
+    /**
+     * Rehash occurs sets a new hashtable capacity, and then repositions the neccessary key-value pairs based on new capacity.
+     */
+    public void rehash() {
+        //resize
+        LinkedList<Entry<K, V>>[] tempHashTable = hashTable;
+        int newSize = intFindNextPrime(hashTable.length * 2); //sets newSize as current table size * 2 and then brought up to the next largest prime
+        hashTable = new LinkedList[newSize];
+        //rehash
+        numElements = 0;
+        for (LinkedList<Entry<K, V>> slots : tempHashTable) {
+            if (slots != null) {
+                for (Entry<K, V> slot : slots) {
+                    put(slot.key, slot.val);
+                }
+            }
+        }
+        System.out.println("Rehashed with a new size of " + newSize + " slots");
+    }
+ 
+    /**
+     * Entry class is a Key-Value pair object
+     * @param <K> K is key, it is hashed to find position in the hashtable
+     * @param <V> V is the value associated with a key
+     */
+    public static class Entry<K, V> {
+        public K key;
+        public V val;
+ 
+        Entry(K key, V val) {
+            this.key = key;
+            this.val = val;
+        }
+    }
+ 
+    /**
+     * @param num this number is hashtable current capacity * 2
+     * @return returns the next prime number found after num, which will be the new hashtable capacity
+     */
+    public int intFindNextPrime(int num) {
+        for (int i = 2; i < num; i++) {
+            if (num % i == 0) {
+                return intFindNextPrime(num + 1);
+            }
+        }
+        return num;
+    }
+ 
+ 
+    public String purify(String date, String ticker) {
+        date = date.replaceAll("-", "");
+        int intDate = Integer.parseInt(date);
+        int numRepOfTick = 0;
+        for (int i = 0; i < ticker.length(); i++) {
+            numRepOfTick += (int) ticker.charAt(i);
+        }
+        int totalKey = intDate + numRepOfTick;
+        String totalKeyStr = Integer.toString(totalKey);
+        return totalKeyStr;
+ 
+ 
+    }
+}
+ 
+/**
+ * Driver class for project 4, simple command line tool
+ * @author Rowan McDonald
+ * @version 1.5 04/25/2024
+ */
+ 
+public class MenuDriver {
+        public static void main(String[] args) throws IOException {
+            Scanner scanTool = new Scanner(System.in);
+            HashTable centralTable = new HashTable();
+            boolean True = true;
+            String[] userInputStr = new String[3];
+            userInputStr[0] = "O";
+            while (True) {
+                if (userInputStr[0].equals("O")) {
+                    System.out.println("Welcome to Stock Price Tracker!\n\nCommand options:\nI  ticker_symbol  price  (insert/update the price of a stock)\nD ticker_symbol         (display a value)\nR  ticker_symbol         (remove a stock (and it's price)\nV                       (display all stocks)\nA                       (display the load factor alpha)" + "\nS                       (display the number of stocks being tracked)\nO                       (display these options)\nQ                       (quit)\nC (Cool option)\nPlease enter a command (or 'O' for all of the options): ");
+                } else {
+                    System.out.println("\nPlease enter a command (or 'O' for all of the options): ");
+                }
+ 
+                String userInputFull = scanTool.nextLine();
+                //Splits up user input, this way it is always choice = arr[0], ticker = arr[1], and price = arr[2]
+                userInputStr = userInputFull.split(" ");
+ 
+                switch (userInputStr[0]) {
+                    case "I": //User wants to insert key-value pair.
+                        System.out.println("Inserting " + userInputStr[1] + "...");
+                        if (centralTable.get(userInputStr[1]) != null) {
+                            System.out.println("The key SPX did have a previous value of " + centralTable.get(userInputStr[1]) + ". Updating the value to " + userInputStr[2]);
+                        }
+                        centralTable.put(userInputStr[1], userInputStr[2]);
+                        break;
+                    case "D": //If the user wants to display a particular value from a key
+                        System.out.println("Displaying the price associated with " + userInputStr[1] + " ...");
+                        if (centralTable.get(userInputStr[1]) != null) {
+                            System.out.println("Found " + centralTable.get(userInputStr[1]));
+                        } else {
+                            System.out.println("Unable to find " + userInputStr[1] + "\n");
+                        }
+                        break;
+ 
+ 
+                    case "R": //Removes a value
+                        System.out.println("Removing the price associated with " + userInputStr[1]);
+                        if (centralTable.get(userInputStr[1]) != null && centralTable.remove(userInputStr[1])) {
+                            System.out.println("Successfully removed " + userInputStr[1]);
+                        } else {
+                            System.out.println("Failed to remove " + userInputStr[1]);
+                        }
+                        break;
+ 
+ 
+                    case "V": //User wants to print all key-value pairs.
+                        System.out.println("Basic hash table (" + centralTable.numElements + " key-value pair):");
+                        for (LinkedList<HashTable.Entry<String, String>> slots : centralTable.hashTable) {
+                            if (slots != null) {
+                                for (HashTable.Entry<String, String> kVP : slots) {
+                                    System.out.println("Key: " + kVP.key + "\t" + "Value: " + Double.parseDouble(kVP.val) + "\n");
+                                }
+                            }
+                        }
+                        break;
+ 
+ 
+                    case "A": //User wants to see load factor alpha (this calls to the getAlpha() method)
+                        System.out.println("The current load factor alpha (a) is " + String.format("%.2f", centralTable.getAlpha()));
+                        break;
+ 
+ 
+                    case "S": //User wants to know how many values are in the hashtable
+                        System.out.println("Currently tracking " + centralTable.numElements + " stocks");
+                        break;
+ 
+ 
+                    //I don't need a case 'O', if the user puts in anything but the listed options it'll just bounce back to the beginning automatically.
+ 
+ 
+                    case "Q": //User wishes to end the program.
+                        System.out.println("\nGood-Bye");
+                        System.exit(0);
+                        break;
+ 
+ 
+//                case 'C':
+//                    True = false;
+//                    APIAccessDriver extra = new APIAccessDriver();
+//                    break;
+ 
+ 
+                }
+            }
+ 
+ 
+        }
+    }
+ 
+ 
+ 
