@@ -1,0 +1,7 @@
+1. Be able to export data into a variety of file types, including but not limited to, .CSV, .XML, and .DB
+2. Create 'groups' of stocks which can be treated as one entity, where rate of change and volume calculations and such can be done on the entire group and have one result for each calculation requested. Also need to be able to store this in the save file in some reaccessible way.
+3. Dockify this.
+4. Create a GUI option, and jar that program version.
+5. Create a logo and better name 
+6. Create an HTML page that allows you to use it (dubious)
+7. Create offline version where user can only access already loaded info
