@@ -338,34 +338,36 @@ class singleDay{
 
 
 class HashTable<K, V> {
-    private static final int CAPACITY = 3;
+    public intTableSize = 3;
     public LinkedList<Entry<K, V>>[] table;
-    public int size;
+    public int numElements;
 
     public HashTable() {
-        table = new LinkedList[CAPACITY];
-        size = 0;
+        hashTable = new LinkedList[tableSize];
+        numElements = 0;
     }
 
     public void put(K key, V value) {
-        if (key == null)
-            throw new IllegalArgumentException("Key cannot be null");
+        if (key == null){
+            System.out.println("Key cannot be null, please change");
+            
+        }
 
-        int index = getIndex(key);
-        if (table[index] == null) {
-            table[index] = new LinkedList<>();
+        int curPos = getIndex(key);
+        if (hashTable[curPos] == null) {
+            hastTable[curPos] = new LinkedList<>();
         }
 
 
-        for (Entry<K, V> entry : table[index]) {
+        for (Entry<K, V> entry : hashTable[curPos]) {
             if (entry.key.equals(key)) {
                 entry.value = value;
                 return;
             }
         }
 
-        table[index].add(new Entry<>(key, value));
-        size++;
+        hashTable[curPos].add(new Entry<>(key, value));
+        numElements++;
 
 
         if (size > table.length * 0.75) {
