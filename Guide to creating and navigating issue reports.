@@ -2,3 +2,10 @@ Name format: method causing issue + "issue in" name of class containing method
 General summary of issue.
 Example of issue.
 Referenced notes. 
+
+Sometimes referenced notes will have nested notes. For example:
+1. Variable "stock" (1A) is broken.
+  1A. stock is a poor name, should be renamed to...
+2. Method filter has redundancy issue when called from class SpeedUp (2A)
+  2A. filter is probably called too many times in SpeedUp.
+
