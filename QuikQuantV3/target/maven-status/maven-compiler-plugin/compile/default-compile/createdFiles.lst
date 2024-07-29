@@ -1,0 +1,16 @@
+org\example\GraphFrame.class
+org\example\APIAccessor.class
+org\example\infoPrintScreen.class
+org\example\QueryFrame.class
+org\example\ImageLoader.class
+org\example\infoPrintScreen$2.class
+org\example\Main.class
+org\example\StockHashTable$Entry.class
+org\example\TextAreaRowGrouping.class
+org\example\VolatilityCalculator.class
+org\example\MainMenu.class
+org\example\Calculations.class
+org\example\RescaleImage.class
+org\example\Calcs.class
+org\example\infoPrintScreen$1.class
+org\example\StockHashTable.class
