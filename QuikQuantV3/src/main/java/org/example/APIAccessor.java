@@ -106,11 +106,11 @@ public class APIAccessor {
             String date = data.getString("datetime");
 
             String key = purify(date, symbol);
-            String oneBlock = centralTable.printOne(key).toString();
-            if(centralTable.get(key) != null && oneBlock.contains(symbol)){
+            if(centralTable.get(key) != null && centralTable.printOne(key).contains(symbol)){
                 System.out.println("Saved time at: "+date);
+                String oneBlock = centralTable.printOne(key).toString();
                 System.out.println(oneBlock);
-                infoScreen.buildTArea(oneBlock);
+                infoScreen.buildTArea(centralTable.printOne(key).toString());
                 continue;
             }
 
