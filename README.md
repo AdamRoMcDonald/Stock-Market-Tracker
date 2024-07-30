@@ -24,7 +24,7 @@ Here is a very simple step-by-step example which illustrates the basic use of th
 10. Hit "Finish and Save."
 11. Hit "View Saved Content."
 12. Exit
-13. 
+
 
 
 
