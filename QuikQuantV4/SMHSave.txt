@@ -1,0 +1,1446 @@
+20241300 Symbol: AAPL
+Date: 2024-10-14
+Open: 228.7
+High: 231.73
+Low: 228.6
+Close: 231.3
+Volume: 39882100
+
+20241039 Symbol: MSFT
+Date: 2024-07-25
+Open: 428.8
+High: 429.8
+Low: 417.51
+Close: 418.4
+Volume: 29943800
+
+20241038 Symbol: MSFT
+Date: 2024-07-24
+Open: 440.45
+High: 441.48
+Low: 427.59
+Close: 428.9
+Volume: 26805800
+
+20241037 Symbol: MSFT
+Date: 2024-07-23
+Open: 443.9
+High: 448.39
+Low: 443.1
+Close: 444.85
+Volume: 13107100
+
+20241036 Symbol: MSFT
+Date: 2024-07-22
+Open: 441.79
+High: 444.6
+Low: 438.91
+Close: 442.94
+Volume: 15808800
+
+20241033 Symbol: MSFT
+Date: 2024-07-19
+Open: 433.1
+High: 441.14
+Low: 432.0
+Close: 437.11
+Volume: 20940400
+
+20241032 Symbol: MSFT
+Date: 2024-07-18
+Open: 444.34
+High: 444.65
+Low: 434.4
+Close: 440.37
+Volume: 20794800
+
+20241031 Symbol: MSFT
+Date: 2024-07-17
+Open: 442.59
+High: 444.85
+Low: 439.18
+Close: 443.52
+Volume: 21778000
+
+20241030 Symbol: MSFT
+Date: 2024-07-16
+Open: 454.22
+High: 454.3
+Low: 446.66
+Close: 449.52
+Volume: 17175700
+
+20241029 Symbol: MSFT
+Date: 2024-07-15
+Open: 453.3
+High: 457.26
+Low: 451.43
+Close: 453.96
+Volume: 14429400
+
+20241026 Symbol: MSFT
+Date: 2024-07-12
+Open: 454.33
+High: 456.36
+Low: 450.65
+Close: 453.55
+Volume: 16324300
+
+20241025 Symbol: MSFT
+Date: 2024-07-11
+Open: 462.98
+High: 464.78
+Low: 451.55
+Close: 454.7
+Volume: 23111200
+
+20241024 Symbol: MSFT
+Date: 2024-07-10
+Open: 461.22
+High: 466.46
+Low: 458.86
+Close: 466.25
+Volume: 18196100
+
+20241244 Symbol: MSFT
+Date: 2024-09-30
+Open: 428.21
+High: 430.42
+Low: 425.37
+Close: 430.3
+Volume: 16807300
+
+20241023 Symbol: MSFT
+Date: 2024-07-09
+Open: 467.0
+High: 467.33
+Low: 458.0
+Close: 459.54
+Volume: 17207200
+
+20241022 Symbol: MSFT
+Date: 2024-07-08
+Open: 466.55
+High: 467.7
+Low: 464.46
+Close: 466.24
+Volume: 12962300
+
+20241241 Symbol: MSFT
+Date: 2024-09-27
+Open: 431.52
+High: 431.85
+Low: 427.47
+Close: 428.02
+Volume: 14896100
+
+20241240 Symbol: MSFT
+Date: 2024-09-26
+Open: 435.09
+High: 435.3
+Low: 429.13
+Close: 431.31
+Volume: 14492000
+
+20241199 Symbol: AAPL
+Date: 2024-09-13
+Open: 223.58
+High: 224.04
+Low: 221.91
+Close: 222.5
+Volume: 36766600
+
+20241198 Symbol: AAPL
+Date: 2024-09-12
+Open: 222.5
+High: 223.55
+Low: 219.82
+Close: 222.77
+Volume: 37498200
+
+20241197 Symbol: AAPL
+Date: 2024-09-11
+Open: 221.46
+High: 223.09
+Low: 217.89
+Close: 222.66
+Volume: 44587100
+
+20241196 Symbol: AAPL
+Date: 2024-09-10
+Open: 218.92
+High: 221.48
+Low: 216.73
+Close: 220.11
+Volume: 51591000
+
+20241195 Symbol: AAPL
+Date: 2024-09-09
+Open: 220.82
+High: 221.27
+Low: 216.71
+Close: 220.91
+Volume: 67180000
+
+20241192 Symbol: AAPL
+Date: 2024-09-06
+Open: 223.95
+High: 225.24
+Low: 219.77
+Close: 220.82
+Volume: 48423000
+
+20241191 Symbol: AAPL
+Date: 2024-09-05
+Open: 221.63
+High: 225.48
+Low: 221.52
+Close: 222.38
+Volume: 36615400
+
+20241190 Symbol: AAPL
+Date: 2024-09-04
+Open: 221.66
+High: 221.78
+Low: 217.48
+Close: 220.85
+Volume: 43840200
+
+20241239 Symbol: MSFT
+Date: 2024-09-25
+Open: 429.83
+High: 433.12
+Low: 428.57
+Close: 432.11
+Volume: 13396400
+
+20241238 Symbol: MSFT
+Date: 2024-09-24
+Open: 433.0
+High: 433.35
+Low: 426.1
+Close: 429.17
+Volume: 17015800
+
+20241017 Symbol: AAPL
+Date: 2024-07-31
+Open: 221.44
+High: 223.82
+Low: 220.63
+Close: 222.08
+Volume: 50036300
+
+20241237 Symbol: MSFT
+Date: 2024-09-23
+Open: 434.28
+High: 436.46
+Low: 430.39
+Close: 433.51
+Volume: 15128900
+
+20241016 Symbol: AAPL
+Date: 2024-07-30
+Open: 219.19
+High: 220.33
+Low: 216.12
+Close: 218.8
+Volume: 41643800
+
+20241015 Symbol: AAPL
+Date: 2024-07-29
+Open: 216.96
+High: 219.3
+Low: 215.75
+Close: 218.24
+Volume: 36311800
+
+20241234 Symbol: MSFT
+Date: 2024-09-20
+Open: 437.22
+High: 439.24
+Low: 434.22
+Close: 435.27
+Volume: 55167100
+
+20241233 Symbol: MSFT
+Date: 2024-09-19
+Open: 441.23
+High: 441.5
+Low: 436.9
+Close: 438.69
+Volume: 21706600
+
+20241012 Symbol: AAPL
+Date: 2024-07-26
+Open: 218.7
+High: 219.49
+Low: 216.01
+Close: 217.96
+Volume: 41601300
+
+20241232 Symbol: INTC
+Date: 2024-09-30
+Open: 23.74
+High: 23.95
+Low: 23.09
+Close: 23.46
+Volume: 66308200
+
+20241011 Symbol: AAPL
+Date: 2024-07-25
+Open: 218.93
+High: 220.85
+Low: 214.62
+Close: 217.49
+Volume: 51391200
+
+20241231 Symbol: MSFT
+Date: 2024-09-17
+Open: 440.23
+High: 441.85
+Low: 432.27
+Close: 435.15
+Volume: 18874200
+
+20241010 Symbol: AAPL
+Date: 2024-07-24
+Open: 224.0
+High: 224.8
+Low: 217.13
+Close: 218.54
+Volume: 61777600
+
+20241230 Symbol: MSFT
+Date: 2024-09-16
+Open: 430.6
+High: 433.53
+Low: 428.22
+Close: 431.34
+Volume: 13834700
+
+20241189 Symbol: AAPL
+Date: 2024-09-03
+Open: 228.55
+High: 229.0
+Low: 221.17
+Close: 222.77
+Volume: 50190600
+
+20241009 Symbol: AAPL
+Date: 2024-07-23
+Open: 224.37
+High: 226.94
+Low: 222.68
+Close: 225.01
+Volume: 39960300
+
+20241229 Symbol: INTC
+Date: 2024-09-27
+Open: 24.16
+High: 24.66
+Low: 23.7
+Close: 23.91
+Volume: 85883300
+
+20241008 Symbol: AAPL
+Date: 2024-07-22
+Open: 227.01
+High: 227.78
+Low: 223.09
+Close: 223.96
+Volume: 48201800
+
+20241228 Symbol: INTC
+Date: 2024-09-26
+Open: 24.28
+High: 24.42
+Low: 23.25
+Close: 23.92
+Volume: 95416900
+
+20241227 Symbol: INTC
+Date: 2024-09-25
+Open: 22.8
+High: 24.06
+Low: 22.73
+Close: 23.54
+Volume: 117013400
+
+20241226 Symbol: INTC
+Date: 2024-09-24
+Open: 22.53
+High: 23.11
+Low: 22.29
+Close: 22.81
+Volume: 113082500
+
+20241005 Symbol: AAPL
+Date: 2024-07-19
+Open: 224.82
+High: 226.8
+Low: 223.28
+Close: 224.31
+Volume: 49151500
+
+20241225 Symbol: INTC
+Date: 2024-09-23
+Open: 22.43
+High: 22.82
+Low: 22.03
+Close: 22.56
+Volume: 184439100
+
+20241004 Symbol: AAPL
+Date: 2024-07-18
+Open: 230.28
+High: 230.44
+Low: 222.27
+Close: 224.18
+Volume: 66034600
+
+20241224 Symbol: MSFT
+Date: 2024-09-10
+Open: 408.2
+High: 416.33
+Low: 407.7
+Close: 414.2
+Volume: 19594300
+
+20241003 Symbol: AAPL
+Date: 2024-07-17
+Open: 229.45
+High: 231.46
+Low: 226.64
+Close: 228.88
+Volume: 57345900
+
+20241223 Symbol: MSFT
+Date: 2024-09-09
+Open: 407.24
+High: 408.65
+Low: 402.15
+Close: 405.72
+Volume: 15295100
+
+20241002 Symbol: AAPL
+Date: 2024-07-16
+Open: 235.0
+High: 236.27
+Low: 232.33
+Close: 234.82
+Volume: 43234300
+
+20241222 Symbol: INTC
+Date: 2024-09-20
+Open: 20.89
+High: 23.14
+Low: 20.35
+Close: 21.84
+Volume: 260377900
+
+20241001 Symbol: AAPL
+Date: 2024-07-15
+Open: 236.48
+High: 237.23
+Low: 233.09
+Close: 234.4
+Volume: 62631300
+
+20241221 Symbol: INTC
+Date: 2024-09-19
+Open: 21.28
+High: 21.69
+Low: 21.03
+Close: 21.14
+Volume: 99829200
+
+20241220 Symbol: INTC
+Date: 2024-09-18
+Open: 21.36
+High: 21.74
+Low: 20.72
+Close: 20.77
+Volume: 118727900
+
+20241219 Symbol: INTC
+Date: 2024-09-17
+Open: 21.71
+High: 22.58
+Low: 21.24
+Close: 21.47
+Volume: 196249800
+
+20241218 Symbol: INTC
+Date: 2024-09-16
+Open: 20.03
+High: 21.07
+Low: 19.76
+Close: 20.91
+Volume: 149337000
+
+20241217 Symbol: MSFT
+Date: 2024-09-03
+Open: 417.91
+High: 419.88
+Low: 407.03
+Close: 409.44
+Volume: 20313600
+
+20241216 Symbol: AAPL
+Date: 2024-09-30
+Open: 230.04
+High: 233.0
+Low: 229.65
+Close: 233.0
+Volume: 54541900
+
+20241215 Symbol: INTC
+Date: 2024-09-13
+Open: 19.49
+High: 19.8
+Low: 19.49
+Close: 19.66
+Volume: 44236300
+
+20241214 Symbol: INTC
+Date: 2024-09-12
+Open: 19.43
+High: 19.54
+Low: 19.04
+Close: 19.36
+Volume: 51602900
+
+20241213 Symbol: AAPL
+Date: 2024-09-27
+Open: 228.46
+High: 229.52
+Low: 227.30
+Close: 227.79
+Volume: 34026000
+
+
+20241212 Symbol: AAPL
+Date: 2024-09-26
+Open: 227.30
+High: 228.50
+Low: 225.41
+Close: 227.52
+Volume: 36636700
+
+
+20241211 Symbol: AAPL
+Date: 2024-09-25
+Open: 224.93
+High: 227.29
+Low: 224.02
+Close: 226.37
+Volume: 42308700
+
+
+20241210 Symbol: AAPL
+Date: 2024-09-24
+Open: 228.65
+High: 229.35
+Low: 225.73
+Close: 227.37
+Volume: 43556100
+
+
+20241387 Symbol: AAPL
+Date: 2024-11-01
+Open: 220.97
+High: 225.35
+Low: 220.27
+Close: 222.91
+Volume: 65242200
+
+20241209 Symbol: AAPL
+Date: 2024-09-23
+Open: 227.34
+High: 229.45
+Low: 225.81
+Close: 226.47
+Volume: 54146000
+
+20241208 Symbol: INTC
+Date: 2024-09-06
+Open: 19.44
+High: 19.49
+Low: 18.64
+Close: 18.89
+Volume: 92686500
+
+20241207 Symbol: INTC
+Date: 2024-09-05
+Open: 19.28
+High: 19.9
+Low: 19.24
+Close: 19.4
+Volume: 65388800
+
+20241206 Symbol: AAPL
+Date: 2024-09-20
+Open: 229.97
+High: 233.09
+Low: 227.62
+Close: 228.20
+Volume: 318679900
+
+
+20241205 Symbol: AAPL
+Date: 2024-09-19
+Open: 224.99
+High: 229.82
+Low: 224.63
+Close: 228.87
+Volume: 66781300
+
+
+20241204 Symbol: AAPL
+Date: 2024-09-18
+Open: 217.55
+High: 222.71
+Low: 217.54
+Close: 220.69
+Volume: 59894900
+
+20241203 Symbol: AAPL
+Date: 2024-09-17
+Open: 215.75
+High: 216.9
+Low: 214.5
+Close: 216.79
+Volume: 45519300
+
+20241202 Symbol: AAPL
+Date: 2024-09-16
+Open: 216.54
+High: 217.22
+Low: 213.92
+Close: 216.32
+Volume: 59357400
+
+20241144 Symbol: MSFT
+Date: 2024-08-30
+Open: 415.6
+High: 417.49
+Low: 412.13
+Close: 417.14
+Volume: 24308300
+
+20241143 Symbol: MSFT
+Date: 2024-08-29
+Open: 414.94
+High: 422.05
+Low: 410.6
+Close: 413.12
+Volume: 17045200
+
+20241142 Symbol: MSFT
+Date: 2024-08-28
+Open: 414.88
+High: 415.0
+Low: 407.31
+Close: 410.6
+Volume: 14882700
+
+20241141 Symbol: MSFT
+Date: 2024-08-27
+Open: 412.86
+High: 414.36
+Low: 410.25
+Close: 413.84
+Volume: 13492900
+
+20241140 Symbol: MSFT
+Date: 2024-08-26
+Open: 416.37
+High: 417.28
+Low: 411.34
+Close: 413.49
+Volume: 13152800
+
+20241099 Symbol: AAPL
+Date: 2024-08-13
+Open: 219.01
+High: 221.89
+Low: 219.01
+Close: 221.27
+Volume: 44155300
+
+20241098 Symbol: AAPL
+Date: 2024-08-12
+Open: 216.07
+High: 219.51
+Low: 215.6
+Close: 217.53
+Volume: 38028100
+
+20241095 Symbol: AAPL
+Date: 2024-08-09
+Open: 212.1
+High: 216.78
+Low: 211.97
+Close: 216.24
+Volume: 42201600
+
+20241094 Symbol: AAPL
+Date: 2024-08-08
+Open: 213.11
+High: 214.2
+Low: 208.83
+Close: 213.31
+Volume: 47161100
+
+20241093 Symbol: AAPL
+Date: 2024-08-07
+Open: 206.9
+High: 213.64
+Low: 206.39
+Close: 209.82
+Volume: 63516400
+
+20241092 Symbol: AAPL
+Date: 2024-08-06
+Open: 205.3
+High: 209.99
+Low: 201.07
+Close: 207.23
+Volume: 69660500
+
+20241091 Symbol: AAPL
+Date: 2024-08-05
+Open: 199.09
+High: 213.5
+Low: 196.0
+Close: 209.27
+Volume: 119548600
+
+20241137 Symbol: MSFT
+Date: 2024-08-23
+Open: 416.98
+High: 419.26
+Low: 412.09
+Close: 416.79
+Volume: 18493800
+
+20241136 Symbol: MSFT
+Date: 2024-08-22
+Open: 424.36
+High: 426.79
+Low: 414.61
+Close: 415.55
+Volume: 19361900
+
+20241135 Symbol: MSFT
+Date: 2024-08-21
+Open: 424.08
+High: 426.4
+Low: 421.72
+Close: 424.14
+Volume: 16067300
+
+20241134 Symbol: MSFT
+Date: 2024-08-20
+Open: 421.7
+High: 425.86
+Low: 421.64
+Close: 424.8
+Volume: 16387600
+
+20241133 Symbol: MSFT
+Date: 2024-08-19
+Open: 418.96
+High: 421.75
+Low: 416.46
+Close: 421.53
+Volume: 15234000
+
+20241130 Symbol: MSFT
+Date: 2024-08-16
+Open: 420.6
+High: 421.34
+Low: 417.3
+Close: 418.47
+Volume: 22775600
+
+20241088 Symbol: AAPL
+Date: 2024-08-02
+Open: 219.15
+High: 225.6
+Low: 217.71
+Close: 219.86
+Volume: 105568600
+
+20241087 Symbol: AAPL
+Date: 2024-08-01
+Open: 224.37
+High: 224.48
+Low: 217.02
+Close: 218.36
+Volume: 62501000
+
+20241129 Symbol: MSFT
+Date: 2024-08-15
+Open: 419.8
+High: 421.11
+Low: 417.66
+Close: 421.03
+Volume: 20752100
+
+20241128 Symbol: MSFT
+Date: 2024-08-14
+Open: 414.8
+High: 417.72
+Low: 412.45
+Close: 416.86
+Volume: 18267000
+
+20241127 Symbol: MSFT
+Date: 2024-08-13
+Open: 409.59
+High: 414.95
+Low: 409.57
+Close: 414.01
+Volume: 19414300
+
+20241126 Symbol: MSFT
+Date: 2024-08-12
+Open: 407.06
+High: 408.76
+Low: 404.24
+Close: 406.81
+Volume: 16762900
+
+20241345 Symbol: MSFT
+Date: 2024-10-31
+Open: 415.36
+High: 416.16
+Low: 406.3
+Close: 406.35
+Volume: 53971000
+
+20241344 Symbol: MSFT
+Date: 2024-10-30
+Open: 437.44
+High: 438.5
+Low: 432.1
+Close: 432.53
+Volume: 29749100
+
+20241123 Symbol: MSFT
+Date: 2024-08-09
+Open: 404.03
+High: 408.05
+Low: 402.26
+Close: 406.02
+Volume: 19276700
+
+20241343 Symbol: MSFT
+Date: 2024-10-29
+Open: 428.0
+High: 433.17
+Low: 425.8
+Close: 431.95
+Volume: 17644100
+
+20241122 Symbol: MSFT
+Date: 2024-08-08
+Open: 402.44
+High: 405.86
+Low: 399.94
+Close: 402.69
+Volume: 20203000
+
+20241342 Symbol: MSFT
+Date: 2024-10-28
+Open: 431.66
+High: 431.94
+Low: 426.3
+Close: 426.59
+Volume: 14882400
+
+20241121 Symbol: MSFT
+Date: 2024-08-07
+Open: 408.64
+High: 410.08
+Low: 397.47
+Close: 398.43
+Volume: 20650900
+
+20241120 Symbol: MSFT
+Date: 2024-08-06
+Open: 400.0
+High: 405.67
+Low: 398.5
+Close: 399.61
+Volume: 24946500
+
+20241297 Symbol: AAPL
+Date: 2024-10-11
+Open: 229.3
+High: 229.41
+Low: 227.34
+Close: 227.55
+Volume: 31759200
+
+20241296 Symbol: AAPL
+Date: 2024-10-10
+Open: 227.78
+High: 229.5
+Low: 227.17
+Close: 229.04
+Volume: 28183500
+
+20241295 Symbol: AAPL
+Date: 2024-10-09
+Open: 225.23
+High: 229.75
+Low: 224.83
+Close: 229.54
+Volume: 33591100
+
+20241294 Symbol: AAPL
+Date: 2024-10-08
+Open: 224.3
+High: 225.98
+Low: 223.25
+Close: 225.77
+Volume: 31855700
+
+20241293 Symbol: AAPL
+Date: 2024-10-07
+Open: 224.5
+High: 225.69
+Low: 221.33
+Close: 221.69
+Volume: 39505400
+
+20241292 Symbol: AAPL
+Date: 2024-10-06
+Open: 224.5
+High: 225.69
+Low: 221.33
+Close: 221.69
+Volume: 39505352
+
+20241290 Symbol: AAPL
+Date: 2024-10-04
+Open: 227.9
+High: 228.0
+Low: 224.13
+Close: 226.8
+Volume: 37245100
+
+20241119 Symbol: MSFT
+Date: 2024-08-05
+Open: 389.17
+High: 401.04
+Low: 385.58
+Close: 395.15
+Volume: 40709200
+
+20241339 Symbol: MSFT
+Date: 2024-10-25
+Open: 426.76
+High: 432.52
+Low: 426.57
+Close: 428.15
+Volume: 16899100
+
+20241338 Symbol: MSFT
+Date: 2024-10-24
+Open: 425.33
+High: 425.98
+Low: 422.4
+Close: 424.73
+Volume: 13581600
+
+20241337 Symbol: MSFT
+Date: 2024-10-23
+Open: 430.86
+High: 431.08
+Low: 422.53
+Close: 424.6
+Volume: 19654400
+
+20241116 Symbol: AAPL
+Date: 2024-08-30
+Open: 230.19
+High: 230.4
+Low: 227.48
+Close: 229.0
+Volume: 52990800
+
+20241336 Symbol: MSFT
+Date: 2024-10-22
+Open: 418.49
+High: 430.58
+Low: 418.04
+Close: 427.51
+Volume: 25482200
+
+20241115 Symbol: AAPL
+Date: 2024-08-29
+Open: 230.1
+High: 232.92
+Low: 228.88
+Close: 229.79
+Volume: 51906300
+
+20241335 Symbol: MSFT
+Date: 2024-10-21
+Open: 416.12
+High: 418.96
+Low: 413.75
+Close: 418.78
+Volume: 14206100
+
+20241114 Symbol: AAPL
+Date: 2024-08-28
+Open: 227.92
+High: 229.86
+Low: 225.68
+Close: 226.49
+Volume: 38052200
+
+20241113 Symbol: AAPL
+Date: 2024-08-27
+Open: 226.0
+High: 228.85
+Low: 224.89
+Close: 228.03
+Volume: 35934600
+
+20241333 Symbol: INTC
+Date: 2024-10-31
+Open: 22.15
+High: 22.25
+Low: 21.47
+Close: 21.52
+Volume: 112485500
+
+20241112 Symbol: AAPL
+Date: 2024-08-26
+Open: 226.76
+High: 227.28
+Low: 223.89
+Close: 227.18
+Volume: 30602200
+
+20241332 Symbol: INTC
+Date: 2024-10-30
+Open: 22.42
+High: 22.93
+Low: 22.26
+Close: 22.3
+Volume: 50941200
+
+20241331 Symbol: INTC
+Date: 2024-10-29
+Open: 22.87
+High: 23.14
+Low: 22.41
+Close: 22.9
+Volume: 83422200
+
+20241330 Symbol: INTC
+Date: 2024-10-28
+Open: 22.67
+High: 23.27
+Low: 22.56
+Close: 22.92
+Volume: 41915000
+
+20241289 Symbol: AAPL
+Date: 2024-10-03
+Open: 225.14
+High: 226.81
+Low: 223.32
+Close: 225.67
+Volume: 34044200
+
+20241288 Symbol: AAPL
+Date: 2024-10-02
+Open: 225.14
+High: 226.8
+Low: 223.32
+Close: 225.67
+Volume: 34044160
+
+20241287 Symbol: AAPL
+Date: 2024-10-01
+Open: 229.52
+High: 229.65
+Low: 223.74
+Close: 226.21
+Volume: 63285000
+
+20240998 Symbol: AAPL
+Date: 2024-07-12
+Open: 228.92
+High: 232.64
+Low: 228.68
+Close: 230.54
+Volume: 53046500
+
+20240997 Symbol: AAPL
+Date: 2024-07-11
+Open: 231.39
+High: 232.39
+Low: 225.77
+Close: 227.57
+Volume: 64710600
+
+20240996 Symbol: AAPL
+Date: 2024-07-10
+Open: 229.3
+High: 233.08
+Low: 229.25
+Close: 232.98
+Volume: 62627700
+
+20240995 Symbol: AAPL
+Date: 2024-07-09
+Open: 227.93
+High: 229.4
+Low: 226.37
+Close: 228.68
+Volume: 48076100
+
+20240994 Symbol: AAPL
+Date: 2024-07-08
+Open: 227.09
+High: 227.85
+Low: 223.25
+Close: 227.82
+Volume: 59085900
+
+20241109 Symbol: AAPL
+Date: 2024-08-23
+Open: 225.66
+High: 228.22
+Low: 224.33
+Close: 226.84
+Volume: 38677300
+
+20241329 Symbol: MSFT
+Date: 2024-10-15
+Open: 422.18
+High: 422.48
+Low: 415.26
+Close: 418.74
+Volume: 18900200
+
+20241108 Symbol: AAPL
+Date: 2024-08-22
+Open: 227.79
+High: 228.34
+Low: 223.9
+Close: 224.53
+Volume: 43695300
+
+20241328 Symbol: MSFT
+Date: 2024-10-14
+Open: 417.77
+High: 424.04
+Low: 417.52
+Close: 419.14
+Volume: 16653100
+
+20241107 Symbol: AAPL
+Date: 2024-08-21
+Open: 226.52
+High: 227.98
+Low: 225.05
+Close: 226.4
+Volume: 34765500
+
+20241327 Symbol: INTC
+Date: 2024-10-25
+Open: 22.42
+High: 23.34
+Low: 22.41
+Close: 22.68
+Volume: 67503000
+
+20241106 Symbol: AAPL
+Date: 2024-08-20
+Open: 225.77
+High: 227.17
+Low: 225.45
+Close: 226.51
+Volume: 30299000
+
+20241326 Symbol: INTC
+Date: 2024-10-24
+Open: 22.09
+High: 22.37
+Low: 21.97
+Close: 22.34
+Volume: 40554400
+
+20241105 Symbol: AAPL
+Date: 2024-08-19
+Open: 225.72
+High: 225.99
+Low: 223.04
+Close: 225.89
+Volume: 40687800
+
+20241325 Symbol: INTC
+Date: 2024-10-23
+Open: 22.3
+High: 22.43
+Low: 21.58
+Close: 21.98
+Volume: 45799100
+
+20241324 Symbol: INTC
+Date: 2024-10-22
+Open: 22.73
+High: 22.82
+Low: 22.17
+Close: 22.4
+Volume: 50160400
+
+20241323 Symbol: INTC
+Date: 2024-10-21
+Open: 22.61
+High: 22.88
+Low: 22.25
+Close: 22.84
+Volume: 39727000
+
+20241102 Symbol: AAPL
+Date: 2024-08-16
+Open: 223.92
+High: 226.83
+Low: 223.65
+Close: 226.05
+Volume: 44340200
+
+20241322 Symbol: MSFT
+Date: 2024-10-08
+Open: 410.9
+High: 415.66
+Low: 408.17
+Close: 414.71
+Volume: 19229300
+
+20241101 Symbol: AAPL
+Date: 2024-08-15
+Open: 224.6
+High: 225.35
+Low: 222.76
+Close: 224.72
+Volume: 46414000
+
+20241321 Symbol: MSFT
+Date: 2024-10-07
+Open: 416.0
+High: 417.11
+Low: 409.0
+Close: 409.54
+Volume: 20919800
+
+20241100 Symbol: AAPL
+Date: 2024-08-14
+Open: 220.57
+High: 223.03
+Low: 219.7
+Close: 221.72
+Volume: 41960600
+
+20241320 Symbol: INTC
+Date: 2024-10-18
+Open: 22.61
+High: 22.82
+Low: 22.5
+Close: 22.77
+Volume: 39971700
+
+20241319 Symbol: INTC
+Date: 2024-10-17
+Open: 22.72
+High: 22.82
+Low: 22.4
+Close: 22.44
+Volume: 43807600
+
+20241318 Symbol: INTC
+Date: 2024-10-16
+Open: 22.38
+High: 22.54
+Low: 21.74
+Close: 22.31
+Volume: 62151800
+
+20241317 Symbol: INTC
+Date: 2024-10-15
+Open: 23.41
+High: 23.72
+Low: 22.47
+Close: 22.66
+Volume: 68900600
+
+20241316 Symbol: INTC
+Date: 2024-10-14
+Open: 23.58
+High: 23.77
+Low: 23.27
+Close: 23.44
+Volume: 35403600
+
+20241315 Symbol: MSFT
+Date: 2024-10-01
+Open: 428.45
+High: 428.48
+Low: 418.81
+Close: 420.69
+Volume: 19092900
+
+20241314 Symbol: AAPL
+Date: 2024-10-28
+Open: 233.32
+High: 234.73
+Low: 232.55
+Close: 233.4
+Volume: 36087100
+
+20241313 Symbol: INTC
+Date: 2024-10-11
+Open: 23.05
+High: 23.82
+Low: 22.98
+Close: 23.56
+Volume: 43585300
+
+20241312 Symbol: INTC
+Date: 2024-10-10
+Open: 23.19
+High: 23.53
+Low: 22.96
+Close: 23.22
+Volume: 44874600
+
+20241311 Symbol: INTC
+Date: 2024-10-09
+Open: 23.25
+High: 23.48
+Low: 23.06
+Close: 23.46
+Volume: 44759000
+
+20241310 Symbol: INTC
+Date: 2024-10-08
+Open: 22.25
+High: 23.42
+Low: 22.05
+Close: 23.32
+Volume: 58650500
+
+20241045 Symbol: MSFT
+Date: 2024-07-31
+Open: 420.5
+High: 421.78
+Low: 412.21
+Close: 418.35
+Volume: 42891400
+
+20241044 Symbol: MSFT
+Date: 2024-07-30
+Open: 427.72
+High: 429.05
+Low: 417.36
+Close: 422.92
+Volume: 32687600
+
+20241043 Symbol: MSFT
+Date: 2024-07-29
+Open: 431.58
+High: 432.15
+Low: 424.7
+Close: 426.73
+Volume: 15125800
+
+20241040 Symbol: MSFT
+Date: 2024-07-26
+Open: 418.2
+High: 428.92
+Low: 417.27
+Close: 425.27
+Volume: 23583800
+
+20241309 Symbol: INTC
+Date: 2024-10-07
+Open: 22.4
+High: 22.65
+Low: 22.02
+Close: 22.38
+Volume: 54928700
+
+20241308 Symbol: AAPL
+Date: 2024-10-22
+Open: 233.89
+High: 236.22
+Low: 232.6
+Close: 235.86
+Volume: 38846600
+
+20241307 Symbol: AAPL
+Date: 2024-10-21
+Open: 234.45
+High: 236.85
+Low: 234.45
+Close: 236.48
+Volume: 36254500
+
+20241306 Symbol: INTC
+Date: 2024-10-04
+Open: 22.7
+High: 22.91
+Low: 22.3
+Close: 22.59
+Volume: 49845500
+
+20241305 Symbol: INTC
+Date: 2024-10-03
+Open: 22.14
+High: 22.73
+Low: 21.65
+Close: 22.26
+Volume: 49565900
+
+20241304 Symbol: INTC
+Date: 2024-10-02
+Open: 22.67
+High: 23.07
+Low: 22.35
+Close: 22.39
+Volume: 59033900
+
+20241303 Symbol: INTC
+Date: 2024-10-01
+Open: 23.46
+High: 23.72
+Low: 22.26
+Close: 22.69
+Volume: 86344400
+
+20241302 Symbol: AAPL
+Date: 2024-10-16
+Open: 231.6
+High: 232.12
+Low: 229.84
+Close: 231.78
+Volume: 34082200
+
+20241301 Symbol: AAPL
+Date: 2024-10-15
+Open: 233.61
+High: 237.49
+Low: 232.37
+Close: 233.85
+Volume: 64751400
+
