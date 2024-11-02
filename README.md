@@ -12,18 +12,19 @@ NOTE: To use this program, you will have to sign up for a free account at Twelve
 Select the "Basic Free" plan here and enjoy: https://twelvedata.com/pricing
 
 Here is a very simple step-by-step example which illustrates the basic use of this project:
-1. Run Jar File
-2. Copy and paste API key and hit "Enter API Key"
-3. Click "Request Stock Info"
-4. Type "AAPL" into the text box which requests a stock symbol.
-5. Hit "Enter"
-6. Select a starting date in the leftmost calendar dropdown
-7. Select an ending date in the rightmost calendar dropdown
-8. Hit the "View Graphs and Calculations" button
-9. Go back to the page with all of the text printed out in the scrollable text field.
-10. Hit "Finish and Save."
-11. Hit "View Saved Content."
-12. Exit
+1. Download and run latest QuikQuant jar file.
+2. Go to https://twelvedata.com/pricing and sign up for a free version (no CC or personal info required).
+3. Copy and paste API key and click "Enter API Key"
+4. Click "Request Stock Info"
+5. Type "AAPL" into the text box which requests a stock symbol.
+6. Hit "Enter"
+7. Select a starting date in the leftmost calendar dropdown
+8. Select an ending date in the rightmost calendar dropdown
+9. Hit the "View Graphs and Calculations" button
+10. Go back to the page with all of the text printed out in the scrollable text field.
+11. Hit "Finish and Save."
+12. Hit "View Saved Content."
+13. Exit
 
 
 
