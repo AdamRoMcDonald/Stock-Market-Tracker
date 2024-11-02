@@ -94,7 +94,7 @@ public class infoPrintScreen {
 
 
         JFrame frame = new JFrame(); //This is the frame in which the JTextArea and buttons/JComboBox go.
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         JPanel panel = new JPanel(); //This panel holds everything.
         frame.setIconImage(icon);
 
