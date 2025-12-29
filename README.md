@@ -8,6 +8,16 @@ Returning the overall highest price of a stock in a given time period.
 Similar calculations regarding sale volume
 Saves loaded stocks and stock information upon exit.
 
+
+
+# Artifacts
+![QQ_HomeScreen](https://github.com/user-attachments/assets/a4351e84-5fee-4205-a63d-c2910edbde39)
+
+
+![QQ_Charts](https://github.com/user-attachments/assets/54f69d81-8f02-485b-8ed7-b3e0d8550399)
+
+# Set-Up & Usage Tutorial
+
 NOTE: To use this program, you will have to sign up for a free account at Twelve Data to get your API key. I assure you it's a legitimate website and signing up takes less than 2 minutes. 
 Select the "Basic Free" plan here and enjoy: https://twelvedata.com/pricing
 
@@ -25,7 +35,3 @@ Here is a very simple step-by-step example which illustrates the basic use of th
 11. Hit "Finish and Save."
 12. Hit "View Saved Content."
 13. Exit
-
-
-
-
